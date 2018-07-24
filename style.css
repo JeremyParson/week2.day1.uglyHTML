@@ -1,0 +1,53 @@
+#title{
+    font-family: Tangerine;
+    font-size: 72px;
+    text-align: center;
+}
+
+.Catch-Phrase{
+    font-family: Unica One;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+
+.top{
+    text-align: center;
+}
+
+.top img{
+    width: 540px;
+}
+
+.watch_container{
+    border-radius: 13px;
+    margin: 10px;
+    border: 2px solid #FDEFA6;
+    background-color: #1A1818;
+    height: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.watch_container img{
+    float: left;
+    height: 200px;
+    clear: both;
+}
+
+.watch_container h2{
+    font-family: Unica One;
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 16px;
+}
+
+.watch_description{
+    font-size: 16px;
+    display: inline;
+    font-family: Dosis;
+}
